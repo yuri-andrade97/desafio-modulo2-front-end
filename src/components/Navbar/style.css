@@ -17,14 +17,14 @@
     color: white;
 
     padding-left: 13px;
-    border: 1px solid white;
+    border: 1px solid #171B1E;
 
-    width: 805px;
+    width: 785px;
     height: 56px
 }
 
 .navbar input:hover {
-    background-color: #whit
+    border-color: rgb(189, 189, 189);
 }
 
 .navbar button {
